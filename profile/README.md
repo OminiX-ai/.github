@@ -2,6 +2,8 @@
   <img width="420" height="132" alt="OminiX" src="https://github.com/user-attachments/assets/bb4ca164-6b13-46d4-9e25-12649fc14fb9" />
 </p>
 
+<h1 align="center">OminiX</h1>
+
 <h3 align="center">A full-stack, pure-Rust AI platform for Apple Silicon.</h3>
 
 <p align="center">
