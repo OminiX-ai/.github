@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="420" height="132" alt="OminiX" src="https://github.com/user-attachments/assets/bb4ca164-6b13-46d4-9e25-12649fc14fb9" />
+</p>
+
 # OminiX-AI
 
 **A full-stack, pure-Rust AI platform for Apple Silicon — from GPU kernels to desktop UI.**
