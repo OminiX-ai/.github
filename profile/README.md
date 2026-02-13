@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/OminiX-ai/OminiX-MLX">MLX Inference</a> · <a href="https://github.com/OminiX-ai/OminiX-API">API Server</a> · <a href="https://github.com/OminiX-ai/OminiX-Studio">Desktop App</a>
+  <a href="https://github.com/OminiX-ai/OminiX-MLX">MLX Inference</a> · <a href="https://github.com/OminiX-ai/OminiX-API">API Server</a> · <a href="https://github.com/OminiX-ai/OminiX-Studio">Studio Desktop App</a>
 </p>
 
 ---
