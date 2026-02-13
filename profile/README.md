@@ -1,5 +1,8 @@
 <p align="center">
-  <img width="420" height="132" alt="OminiX" src="https://github.com/user-attachments/assets/bb4ca164-6b13-46d4-9e25-12649fc14fb9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/48902052-b136-420e-912c-308c8226a399">
+    <img width="420" height="132" alt="OminiX" src="https://github.com/user-attachments/assets/bb4ca164-6b13-46d4-9e25-12649fc14fb9" />
+  </picture>
 </p>
 
 <h1 align="center">OminiX</h1>
